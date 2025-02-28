@@ -1,4 +1,4 @@
-# Hi there, I'm Cedrick! 👋
+# Hi there, I'm Cedrick C. Alegsao! 👋
 
 ## 🚀 About Me
 I'm a passionate developer with experience in multiple technologies, including Next.js, Laravel, Flutter, React, Rust, and Ruby. I love building full-stack applications and solving complex problems with clean and scalable code.
