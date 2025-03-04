@@ -28,13 +28,8 @@ I'm a passionate Full Stack Developer with expertise in building scalable web an
 ## 📊 GitHub Stats
 
 <p align="center">
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cedrick&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cedrick&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedrick&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cedrick&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cedrick&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
 ## 🎯 Notable Projects
