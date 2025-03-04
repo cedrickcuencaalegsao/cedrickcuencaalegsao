@@ -27,9 +27,27 @@ I'm a passionate Full Stack Developer with expertise in building scalable web an
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cedrickcuencaalegsao&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true" alt="Trophy" />
+</div>
+
+<br/>
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cedrick&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cedrick&theme=tokyonight&hide_border=true&layout=compact" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cedrickcuencaalegsao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=cedrickcuencaalegsao&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedrickcuencaalegsao&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=cedrickcuencaalegsao&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cedrickcuencaalegsao&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </p>
 
 ## 🎯 Notable Projects
