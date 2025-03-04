@@ -16,7 +16,7 @@ I'm a passionate Full Stack Developer with expertise in building scalable web an
 
 ## 💻 Tech Stack
 
-<p align="left">
+<p align="center">
 <a href="https://laravel.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -66,17 +66,19 @@ I'm a passionate Full Stack Developer with expertise in building scalable web an
 
 ## 🛠️ Skills & Expertise
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-▰▰▰▰▰▰▰▰▱▱_85%_-0096c7?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Backend-▰▰▰▰▰▰▰▰▰▱_90%_-00b4d8?style=for-the-badge&logo=php&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Mobile_Dev-▰▰▰▰▰▰▱▱▱▱_60%_-48cae4?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/System_Design-▰▰▰▰▰▰▰▰▱▱_80%_-90e0ef?style=for-the-badge&logo=architecture&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Problem_Solving-▰▰▰▰▰▰▰▰▰▱_90%_-caf0f8?style=for-the-badge&logo=thinking&logoColor=white"/>
-</p>
+<div align="center">
+  
+![Frontend Development](https://img.shields.io/badge/Frontend%20Development-85%25-0096c7?style=for-the-badge&logo=javascript)
+  
+![Backend Development](https://img.shields.io/badge/Backend%20Development-90%25-00b4d8?style=for-the-badge&logo=php)
+  
+![Mobile Development](https://img.shields.io/badge/Mobile%20Development-60%25-48cae4?style=for-the-badge&logo=flutter)
+  
+![System Design](https://img.shields.io/badge/System%20Design-80%25-90e0ef?style=for-the-badge&logo=diagram)
+  
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-90%25-caf0f8?style=for-the-badge&logo=leetcode)
+
+</div>
 
 ## 🤝 Connect with Me
 
