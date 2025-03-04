@@ -1,4 +1,4 @@
-# Hi there, I'm Cedrick! 👋
+# Hi there, I'm Cedrick C. Alegsao! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I%27m+Cedrick+%F0%9F%91%8B;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
