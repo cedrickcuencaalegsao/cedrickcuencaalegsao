@@ -11,16 +11,17 @@
 </p>
 
 ## 🚀 About Me
+
 I'm a passionate Full Stack Developer with expertise in building scalable web and mobile applications. I specialize in modern web technologies and love creating elegant solutions to complex problems.
 
 ## 💻 Tech Stack
+
 <p align="left">
-<a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
+<a href="https://laravel.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://www.rust-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 </p>
 
@@ -40,15 +41,12 @@ I'm a passionate Full Stack Developer with expertise in building scalable web an
 - 🛍️ **Full-Stack Product Management System**
   - Next.js, Laravel, TypeScript
   - Real-time updates, RESTful API
-  
 - 📱 **Real-time Notification System**
   - Laravel WebSockets
   - React for real-time updates
-  
 - 🧮 **Custom Calculator App**
   - Flutter, BLoC pattern
   - Custom animations and UI
-  
 - 🦀 **Rust CLI Application**
   - Number system conversion
   - High-performance implementation
