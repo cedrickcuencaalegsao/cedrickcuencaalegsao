@@ -33,7 +33,7 @@ I'm a passionate Full Stack Developer with expertise in building scalable web an
 
 <br/>
 
-<p align="center"> -->
+<p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cedrickcuencaalegsao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
@@ -66,15 +66,14 @@ I'm a passionate Full Stack Developer with expertise in building scalable web an
 
 ## 🛠️ Skills & Expertise
 
-  
 ![Frontend Development](https://img.shields.io/badge/Frontend%20Development-85%25-0096c7?style=for-the-badge&logo=javascript)
-  
+
 ![Backend Development](https://img.shields.io/badge/Backend%20Development-90%25-00b4d8?style=for-the-badge&logo=php)
-  
+
 ![Mobile Development](https://img.shields.io/badge/Mobile%20Development-60%25-48cae4?style=for-the-badge&logo=flutter)
-  
+
 ![System Design](https://img.shields.io/badge/System%20Design-80%25-90e0ef?style=for-the-badge&logo=diagram)
-  
+
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-90%25-caf0f8?style=for-the-badge&logo=leetcode)
 
 ## 🤝 Connect with Me
