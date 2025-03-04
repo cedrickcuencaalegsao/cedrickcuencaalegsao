@@ -66,13 +66,17 @@ I'm a passionate Full Stack Developer with expertise in building scalable web an
 
 ## 🛠️ Skills & Expertise
 
-```text
-Frontend Development    ███████████░░   85%
-Backend Development    ████████████░░   90%
-Mobile Development     ████████░░░░░░   60%
-System Design          ███████████░░░   80%
-Problem Solving        ████████████░░   90%
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-▰▰▰▰▰▰▰▰▱▱_85%_-0096c7?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Backend-▰▰▰▰▰▰▰▰▰▱_90%_-00b4d8?style=for-the-badge&logo=php&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Mobile_Dev-▰▰▰▰▰▰▱▱▱▱_60%_-48cae4?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/System_Design-▰▰▰▰▰▰▰▰▱▱_80%_-90e0ef?style=for-the-badge&logo=architecture&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Problem_Solving-▰▰▰▰▰▰▰▰▰▱_90%_-caf0f8?style=for-the-badge&logo=thinking&logoColor=white"/>
+</p>
 
 ## 🤝 Connect with Me
 
