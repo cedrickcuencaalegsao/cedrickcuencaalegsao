@@ -66,7 +66,6 @@ I'm a passionate Full Stack Developer with expertise in building scalable web an
 
 ## 🛠️ Skills & Expertise
 
-<div align="center">
   
 ![Frontend Development](https://img.shields.io/badge/Frontend%20Development-85%25-0096c7?style=for-the-badge&logo=javascript)
   
@@ -77,8 +76,6 @@ I'm a passionate Full Stack Developer with expertise in building scalable web an
 ![System Design](https://img.shields.io/badge/System%20Design-80%25-90e0ef?style=for-the-badge&logo=diagram)
   
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-90%25-caf0f8?style=for-the-badge&logo=leetcode)
-
-</div>
 
 ## 🤝 Connect with Me
 
