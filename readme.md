@@ -79,13 +79,13 @@ I'm a passionate Full Stack Developer with expertise in building scalable web an
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/cedrick" target="_blank">
+  <a href="https://github.com/cedrickcuencaalegsao" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
-  <a href="https://linkedin.com/in/cedrick" target="_blank">
+  <a href="https://www.linkedin.com/in/cedrick-alegsao-a4b6a5217/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="https://twitter.com/cedrickdev" target="_blank">
+  <a href="https://twitter.com/cedalegsao" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
   </a>
 </p>
