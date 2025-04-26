@@ -63,6 +63,11 @@ I'm a passionate Full Stack Developer with expertise in building scalable web an
 - 🦀 **Rust CLI Application**
   - Number system conversion
   - High-performance implementation
+  
+## 📂 Latest Projects
+
+<!-- PROJECTS_START -->
+<!-- PROJECTS_END -->
 
 ## 🛠️ Skills & Expertise
 
