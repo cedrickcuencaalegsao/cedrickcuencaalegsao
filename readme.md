@@ -40,7 +40,7 @@ I'm a passionate **Full Stack Developer** specializing in building scalable web 
 <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.rust-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
+<a href="https://www.rust-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></a>
 </p>
 
 ### Mobile
@@ -78,6 +78,10 @@ I'm a passionate **Full Stack Developer** specializing in building scalable web 
 ## 📂 Latest Repositories
 
 <!-- PROJECTS_START -->
+- 🚀 **[cedrickcuencaalegsao](https://github.com/cedrickcuencaalegsao/cedrickcuencaalegsao)**
+  - No description available
+  - ⭐ 0 stars | 🔄 Last updated: 2026-01-16
+
 - 🚀 **[ThesisLeoExplorer](https://github.com/cedrickcuencaalegsao/ThesisLeoExplorer)**
   - No description available
   - ⭐ 1 stars | 🔄 Last updated: 2026-01-15
@@ -93,10 +97,6 @@ I'm a passionate **Full Stack Developer** specializing in building scalable web 
 - 🚀 **[simple-employee-attendance-syste](https://github.com/cedrickcuencaalegsao/simple-employee-attendance-syste)**
   - No description available
   - ⭐ 0 stars | 🔄 Last updated: 2025-11-02
-
-- 🚀 **[library-api](https://github.com/cedrickcuencaalegsao/library-api)**
-  - No description available
-  - ⭐ 0 stars | 🔄 Last updated: 2025-10-24
 
 <!-- PROJECTS_END -->
 
@@ -118,7 +118,7 @@ I'm a passionate **Full Stack Developer** specializing in building scalable web 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cedrickcuencaalegsao&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&no-bg=true" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cedrickcuencaalegsao&theme=tokyonight&no-frame=false&row=1&column=6&margin-w=15" alt="Trophy" />
 </div>
 
 ## 💼 Skills & Expertise
@@ -144,7 +144,7 @@ Problem Solving         ██████████████████�
   <a href="https://twitter.com/cedalegsao" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
   </a>
-  <a href="mailto:your.cedrickcuencaalegsao@gmail.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </p>
